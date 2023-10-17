@@ -1,2 +1,2 @@
 # Gauss-Quadrature
-A project exploring numerical techniques on integration
+A MATLAB project exploring numerical integration techniques
