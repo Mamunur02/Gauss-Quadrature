@@ -1,2 +1,2 @@
-# Gaussian-Integrals
+# Gauss-Quadrature
 A project exploring numerical techniques on integration
